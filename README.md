@@ -33,4 +33,3 @@ hello tiktok api full methods x-gorgon x-argus x-ladon create accounts
 
 **Contact for api :** [https://t.me/tiktokpeppa](https://t.me/tiktokpeppa)
 ## telegram: @tiktokpeppa
-## skype: live:.cid.8e129461a4e880f7
